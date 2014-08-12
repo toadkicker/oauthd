@@ -1,0 +1,6 @@
+{
+  "name": "Oauthd Server",
+  "description": "oauthd",
+  "repository": "https://github.com/toadkicker/oauthd",
+  "keywords": ["node", "oauthd", "twitter", "facebook", "google", "oauth", "redis"]
+}

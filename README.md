@@ -15,6 +15,8 @@ The Oauth Daemon is the open source version of the [OAuth.io](https://oauth.io) 
 
 ## Installation
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 Run the redis server if it's not running yet.
 
 	(sudo) npm install -g forever oauthd
